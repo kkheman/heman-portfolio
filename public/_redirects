@@ -1,0 +1,7 @@
+# Redirect all HTTP to HTTPS
+
+http://\* https://:splat 301!
+
+# Redirect non-www to www
+
+https://hemanbabu.com/* https://www.hemanbabu.com/:splat 301!
