@@ -21,6 +21,14 @@ const Testimonials = () => {
     },
     {
       id: 3,
+      name: "Satish Kumar Mani",
+      role: "Lead Test Architect, Grundfos",
+      link: "https://in.linkedin.com/in/sathish-kumar-mani",
+      quote:
+        "At Danfoss, I had the pleasure of collaborating with Heman, a skilled developer who effectively transitioned into a successful Product Owner role. Heman possesses a strong understanding of software development principles, enabling him to deliver high-quality solutions. Beyond his technical skills, Heman has a great sense of humor that makes him a joy to work with. I highly recommend Heman for any role requiring strong technical skills and a product-centric mindset.",
+    },
+    {
+      id: 4,
       name: "Pramod Huded",
       role: "Innovation Engineer, ABBSmart Lab",
       link: "https://www.linkedin.com/in/pramod-huded-8014b8125/",
@@ -28,7 +36,7 @@ const Testimonials = () => {
         "I had the pleasure of working with Heman and I must say, it was an absolute delight! Heman is an exceptional professional who embodies dedication, passion, and a caring attitude. He is always cool and composed, making it a joy to work with him. What impressed me most was his commitment to deadlines and deliverables. He always adhered to promises made, and his work ethic is truly inspiring. But what sets him apart is the way he guides and mentors junior team members. He takes a genuine interest in their growth and development, offering valuable guidance and support whenever needed. If you are looking for a team player who is not only talented but also an excellent team leader, then Heman is your go-to person! I highly recommend him for any opportunity, and Im confident that he will continue to excel in all future endeavors.",
     },
     {
-      id: 4,
+      id: 5,
       name: "Tameem Ansari",
       role: "Lead Engineer, Danfoss",
       link: "https://www.linkedin.com/in/tameem-ansari-80a007190/",
@@ -36,7 +44,7 @@ const Testimonials = () => {
         "Heman is a great team player. Ready to learn and adapt to new technologies. He is a person with great attitude, mindset and diverse skills like code development, design & architecture, process management, decision making, handling the team & stakeholders. It is always a positive to have Heman in the team and I would highly recommend him for opportunities given to him.",
     },
     {
-      id: 5,
+      id: 6,
       name: "Bhuvaneswaran Balasubramanian",
       role: "Software Development Lead, Danfoss",
       link: "https://www.linkedin.com/in/bhuvaneswaran-balasubramanian/",
@@ -44,7 +52,7 @@ const Testimonials = () => {
         "It was a pleasure to work with Heman due to their excellent interpersonal skills. Having worked with him on few projects, I must say he is a good developer. His work is always outstanding, and his always goes the extra mile to ensure the company standards. He is a highly-skilled, experienced, and helpful professional with a positive attitude.",
     },
     {
-      id: 6,
+      id: 7,
       name: "Venkatraj Selvakumar",
       role: "Software Engineer, Danfoss",
       link: "https://www.linkedin.com/in/venkatraj-selvakumar-04a997113/",
@@ -52,7 +60,7 @@ const Testimonials = () => {
         "It was a great experience working with heman. His mentoring, leadership and technical skills were outstanding. As a Lead he handles and runs the team very smoothly and solves any impediments for the team immediately. The solution he gives for the technical problems shows his remarkable depth as a technical expert. I highly recommend heman Babu for any opportunity given to him.",
     },
     {
-      id: 7,
+      id: 8,
       name: "Balaji Vasu",
       link: "https://www.linkedin.com/in/balaji-vasu-678559bb/",
       role: "Team leader, Renault Nissan",
